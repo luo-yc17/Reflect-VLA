@@ -20,6 +20,8 @@
 
 ## ✨ Highlights
 
+**The first application of OPSD to autonomous driving.** To our knowledge, Reflect-VLA is the first framework to introduce **On-Policy Self-Distillation (OPSD)** into autonomous-driving VLA planning. We propose **Dual-Path On-Policy Self-Distillation (Dual-OPSD)** to internalize reflective guidance: it distills token-level corrective distributions on risky student-generated trajectories while preserving reliable ones through self-imitation, enabling guidance-free, single-pass inference.
+
 | Reflective Guidance | Dual-Path Distillation | Single-Pass Inference |
 | :---: | :---: | :---: |
 | Diagnose planning errors and provide actionable corrections | Correct risky trajectories while preserving reliable ones | Internalize reflective benefits in the student |
