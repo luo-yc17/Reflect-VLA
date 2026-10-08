@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>Reflect-VLA</h1>
-<h3>Internalizing Reflective Guidance via<br>Dual-Path On-Policy Self-Distillation<br>for Autonomous Driving</h3>
+<h1>Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving</h1>
 
 <p>Yuechen Luo<sup>1*</sup>, He Chong<sup>1*</sup>, Fang Li<sup>2*</sup>, Shaoqing Xu<sup>2*†</sup>, Ruiqi Zhang<sup>1</sup>, Hexin Zhang<sup>3</sup>, Ziying Song<sup>4</sup>, Lei Yang<sup>5</sup>, Zhi-Xin Yang<sup>2✉</sup>, Fuxi Wen<sup>1✉</sup></p>
 
