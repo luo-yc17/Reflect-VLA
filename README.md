@@ -2,7 +2,7 @@
 
 <h1>Reflect-VLA: Internalizing Reflective Guidance via Dual-Path On-Policy Self-Distillation for Autonomous Driving</h1>
 
-<p>Yuechen Luo<sup>1*</sup>, He Chong<sup>1*</sup>, Fang Li<sup>2*</sup>, Shaoqing Xu<sup>2*†</sup>, Ruiqi Zhang<sup>1</sup>, Hexin Zhang<sup>3</sup>, Ziying Song<sup>4</sup>, Lei Yang<sup>5</sup>, Zhi-Xin Yang<sup>2✉</sup>, Fuxi Wen<sup>1✉</sup></p>
+<p>Yuechen Luo<sup>1*</sup>, He Chong<sup>1*</sup>, Fang Li<sup>2*</sup>, Shaoqing Xu<sup>2*†</sup>, Hexin Zhang<sup>3</sup>, Ruiqi Zhang<sup>1</sup>, Ziying Song<sup>4</sup>, Lei Yang<sup>5</sup>, Zhi-Xin Yang<sup>2✉</sup>, Fuxi Wen<sup>1✉</sup></p>
 
 <p><sup>1</sup> Tsinghua University · <sup>2</sup> University of Macau<br>
 <sup>3</sup> University of Science and Technology of China<br>
